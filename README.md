@@ -5,6 +5,7 @@
 This is a running list of excellent resources in the world of web development.
 
 - API
+- markdown
 
 ## API
 
@@ -21,3 +22,9 @@ Description: This is a short, well written and practical introductory tutorial t
 - JSON.
 
 Alex also introduces helpful resources, including a currated index of API's, and no-code solutions such as Zapier and IFTTT.
+
+## Markdown
+
+- [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
+  My rating: \*\*\*
+  This is a great way to get the semantics of markdown down quickly and begin composing elegant documentation. It wastes not time getting down to useful material and I find myself running through the tutorial from time to time as a refresher.
