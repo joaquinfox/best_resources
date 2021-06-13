@@ -2,7 +2,7 @@
 
 ## Intro
 
-This is a running list of good resources I come across
+This is a running list of excellent resources in the world of web development.
 
 - API
 
