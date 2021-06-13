@@ -4,10 +4,12 @@
 
 This is a running list of excellent resources in the world of web development.
 
-- API
-- markdown
+- [API][api]
+- [markdown][markdown]
 
 ## API
+
+[api]
 
 - [A Beginner Guide To API's](https://snipcart.com/blog/integrating-apis-introduction) by [Alex Trost](https://snipcart.com/blog?author=7303).
 
@@ -25,6 +27,12 @@ Alex also introduces helpful resources, including a currated index of API's, and
 
 ## Markdown
 
+[markdown]
+
 - [https://www.markdowntutorial.com/](https://www.markdowntutorial.com/)
-  My rating: \*\*\*
-  This is a great way to get the semantics of markdown down quickly and begin composing elegant documentation. It wastes not time getting down to useful material and I find myself running through the tutorial from time to time as a refresher.
+  My rating: 3
+  This is a good way to get the semantics of markdown down quickly and begin composing elegant documentation.
+
+  The tutorial is a series of exercises, presented in sequence and you have to either complete or skip each section to move through the tutorial. This makes it a little tedious to use a refresher if for example, you are trying to brush up on a particular subject.
+
+  A clickable index would be an improved user experience, but even so it is the best markdown tutorial I have come across.
