@@ -4,8 +4,8 @@
 
 This is a running list of excellent resources in the world of web development.
 
-- [API][#api]
-- [markdown][#markdown]
+- [API](#api)
+- [markdown](#markdown)
 
 ## API
 
