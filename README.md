@@ -7,9 +7,8 @@ This is a running list of excellent resources in the world of web development.
 - [API][api]
 - [markdown][markdown]
 
-## API
+## <a>API</a>
 
-[api]
 
 - [A Beginner Guide To API's](https://snipcart.com/blog/integrating-apis-introduction) by [Alex Trost](https://snipcart.com/blog?author=7303).
 
